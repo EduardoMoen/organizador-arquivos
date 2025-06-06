@@ -10,5 +10,5 @@ Script simples em Python que organiza arquivos de uma pasta, movendo-os para sub
 2. Baixe este repositório ou clone via terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/organizador-arquivos.git
+git clone https://github.com/EduardoMoen/organizador-arquivos.git
 cd organizador-arquivos
