@@ -4,7 +4,11 @@ Script simples em Python que organiza arquivos de uma pasta, movendo-os para sub
 
 ## Como usar
 
-1. Instale o Python (se ainda não tiver).
-2. Rode o script:
-   ```bash
-   python organizador.py
+1. Instale o Python (caso não tenha):  
+   https://www.python.org/downloads/
+
+2. Baixe este repositório ou clone via terminal:
+
+```bash
+git clone https://github.com/seu-usuario/organizador-arquivos.git
+cd organizador-arquivos
